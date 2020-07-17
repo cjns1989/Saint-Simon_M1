@@ -2,7 +2,7 @@
 
 Louis de Rouvroy, duc de Saint-Simon, (1675-1755), best known as a memoirist had a profound influence on many writers including Stendhal, Blazac and Marcel Proust.  His enormous memoirs are a classic of French literature, giving the fullest and most lively account of the court at Versailles of Louis XIV and the Régence at the start of Louis XV's reign.
 
-This is volume I of his Mémoires.
+This is volume I of the celebrated  *Mémoires de Saint-Simon*.
 
 # Structure 
 
